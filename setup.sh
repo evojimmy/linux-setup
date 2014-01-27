@@ -6,8 +6,9 @@ cp ./bash-config/.bash_profile ~
 
 rm -rf ~/.emacs.d
 cp -av ./emacs-config ~/.emacs.d
+rm -rf ~/.emacs.d/.git
 
 rm -f ~/.pythonrc
 cp ./.pythonrc ~
 
-@echo "Done."
+echo "Done."

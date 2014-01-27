@@ -1,0 +1,6 @@
+[submodule "bash-config"]
+	path = bash-config
+	url = https://github.com/evojimmy/bash-config.git
+[submodule "emacs-config"]
+	path = emacs-config
+	url = https://github.com/evojimmy/emacs-config.git
